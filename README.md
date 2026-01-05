@@ -12,4 +12,4 @@ A bunch of sols rng simulators made in python!
 * More to come!
 
 ## Discord server
-* https://discord.gg/7zuFCT8kYJ
+https://discord.gg/7zuFCT8kYJ
