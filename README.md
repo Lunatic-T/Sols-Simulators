@@ -3,9 +3,9 @@ A bunch of sols rng simulators made in python!
 
 ## Simulators available (click to download)
 
-* Eden simulator
+* [Eden simulator](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/eden_simulator.exe)
 
-* Dreamspace simulator
+* [Dreamspace simulator](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/dreamspace_simulator.exe)
 
 * [Illusionary & Cryogenic simulator](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/skip_simulator.exe) 
 
