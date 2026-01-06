@@ -9,6 +9,8 @@ A bunch of sols rng simulators made in python!
 
 * [Illusionary & Cryogenic simulator](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/skip_simulator.exe) 
 
+* [Oblivion Potion Simulator](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/oblivion_potion_simulator.exe)
+
 * More to come!
 
 ## Discord server
