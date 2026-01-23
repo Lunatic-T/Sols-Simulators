@@ -3,7 +3,7 @@ A bunch of sols rng simulators made in python!
 
 no source code bcs i like keeping originality 
 
-## Simulators available (click to download)
+## Simulators (click to download)
 
 * [Biome Simulator Release](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/biome_simulator_rework.exe)
 
