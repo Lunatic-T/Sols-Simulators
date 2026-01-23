@@ -1,6 +1,8 @@
 # Sol's RNG Simulators
 A bunch of sols rng simulators made in python! 
 
+no source code bcs i like keeping originality 
+
 ## Simulators available (click to download)
 
 * [Biome Simulator Release](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/biome_simulator_rework.exe)
@@ -11,7 +13,6 @@ A bunch of sols rng simulators made in python!
 
 * [Oblivion Pot Simulator Release](https://github.com/Lunatic-T/Sols-Simulators/releases/download/v1s/oblivion_potion_simulator.exe)
 
-* More to come!
 
 ## Discord server
 https://discord.gg/7zuFCT8kYJ
